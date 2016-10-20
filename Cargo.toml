@@ -1,0 +1,8 @@
+[package]
+name = "jobr_server"
+version = "0.1.0"
+authors = ["TheOpenDevProject <tkgs28@gmail.com>"]
+
+
+[dependencies]
+jobr_lib = {path = "../jobr_lib"}
